@@ -12,6 +12,7 @@ function App() {
       <Text>Hello</Text>
       <TouchableOpacity onPress={onButtonPress}>
         <Text>Check for updates</Text>
+        <Text>Changes are up-to-date</Text>
       </TouchableOpacity>
     </View>
   );
